@@ -1,0 +1,30 @@
+# Compiled binaries and intermediate build output
+build/
+*.exe
+*.dll
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Local screenshots / recordings / sensitive image content
+screenshots/
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.mp4
+
+# IDE/user settings and OS artifacts
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
+
+# Python environments (if tooling is added later)
+.venv/
+venv/
+__pycache__/
